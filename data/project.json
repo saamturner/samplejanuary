@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "saamturner",
+      "avatar_url": "https://avatars.githubusercontent.com/u/157153031?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "saamturner",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2026-01-20T20:26:55.793Z",
-    "updated_at": "2026-01-20T20:26:55.793Z"
-  }
+    "updated_at": "2026-01-20T20:26:55.793Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "b61aa48c-9f85-4da6-bf61-a3c548e65fc2": {
+      "content": [],
+      "created_at": "2026-01-20T20:26:55.834Z",
+      "created_by": "saamturner",
+      "title": "samplejanuary",
+      "updated_at": "2026-01-20T20:26:55.834Z",
+      "updated_by": "saamturner",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "b61aa48c-9f85-4da6-bf61-a3c548e65fc2"
+  ]
 }
